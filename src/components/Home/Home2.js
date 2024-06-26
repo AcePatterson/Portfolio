@@ -12,7 +12,7 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              ABOUT <span className="purple">ACE PATTERSON</span>'S EXPERTISE
+              ABOUT <span className="purple">Ryo Ishiwari</span>'S EXPERTISE
             </h1>
             <p className="home-about-body">
               <br />I am fluent in classics like

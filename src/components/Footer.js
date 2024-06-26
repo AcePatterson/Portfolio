@@ -10,7 +10,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Ace Patterson</h3>
+          <h3>Designed and Developed by Ryo Ishiwari</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} AP</h3>
@@ -29,7 +29,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="mailto:acepttrsn@gmail.com?subject=The%20Subject&body=Hello%2C%20world!"
+                href="mailto:donaldpunkworld@gmail.com?subject=The%20Subject&body=Hello%2C%20world!"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noreferrer"
@@ -49,7 +49,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://t.me/abcdev_world"
+                href="https://t.me/donald_punky"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noreferrer"
@@ -59,7 +59,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/acepatterson/"
+                href="https://www.linkedin.com/in/ryo-ishiwari-5862a6307/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noreferrer"
